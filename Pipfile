@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 fastapi = "*"
 uvicorn = "*"
+python-dotenv = "*"
+python-multipart = "*"
+pillow = "*"
+torch = "*"
+numpy = "*"
+schedule = "*"
 
 [dev-packages]
 
